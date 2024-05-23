@@ -7,4 +7,4 @@ You'll regularly see these around our seed feeders and the ground beneath enjoyi
 
 More details from Utah DWR -> [House Finch](https://fieldguide.wildlife.utah.gov/?species=haemorhous%20mexicanus)
 
-[Back to the list of birds](/index.md)
+[Back to the list of birds](/yardbirds)
