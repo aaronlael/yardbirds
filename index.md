@@ -16,5 +16,5 @@ Not a bird, but commonly confused for a bird...
 
 * Image coming soon [Hawkmoth](/docs/hawkmoth.md)
 
-Curious about plants in the yard?  (Check them out here!)[/yardplants]
+Curious about plants in the yard?  [Check them out here!](/yardplants)
 
