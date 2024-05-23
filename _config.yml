@@ -1,4 +1,6 @@
 markdown: GFM
-theme: jekyll-theme-slate
+remote_theme: pages-themes/leap-day@v0.2.0
 title: Birds of Settler's Point
 description:  A brief overview of the birds we've seen visit our yard!
+plugins:
+- jekyll-remote-theme
