@@ -9,6 +9,7 @@ Have a species to add or a question, [Contact Us](mailto:aaron.j.lael@gmail.com)
 * Image coming soon [Mourning Dove](/docs/mourning_dove.md)
 * Image coming soon [European Starling](/docs/european_starling.md)
 * Image coming soon [Broad-tailed Hummingbird](/docs/broadtailed_hummingbird.md)
+* Image coming soon [Evening Grosbeak](/docs/evening_grosbeak.md)
 * Image coming soon [Magpie](/docs/magpie.md)
 * Image coming soon [Black-Crowned Night Heron](/docs/blackcrowned_night_heron.md)
 
